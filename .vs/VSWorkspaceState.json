@@ -1,8 +1,11 @@
 {
   "ExpandedNodes": [
     "",
+    "\\Java",
     "\\JavaScript",
-    "\\JavaScript\\Exercism"
+    "\\JavaScript\\Exercism",
+    "\\Java\\Exercism"
   ],
+  "SelectedNode": "\\Java\\Exercism\\CookYourLasagna.java",
   "PreviewInSolutionExplorer": false
 }
