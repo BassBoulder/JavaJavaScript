@@ -1,6 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Java",
+    "\\JavaScript",
+    "\\JavaScript\\Exercism",
+    "\\JavaScript\\Testing",
+    "\\Java\\Exercism"
   ],
+  "SelectedNode": "\\JavaScript\\Exercism\\PoetryClubDoorPolicy.js",
   "PreviewInSolutionExplorer": false
 }
