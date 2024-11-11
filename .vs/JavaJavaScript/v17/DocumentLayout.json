@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Roma Invicta\\source\\repos\\BassBoulder\\JavaJavaScript\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Roma Invicta\\source\\repos\\BassBoulder\\JavaJavaScript\\Java\\Exercism\\SqueakyClean.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Java\\Exercism\\SqueakyClean.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Roma Invicta\\source\\repos\\BassBoulder\\JavaJavaScript\\Java\\Exercism\\CarsAssemble.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Java\\Exercism\\CarsAssemble.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,14 +43,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "SqueakyClean.java",
-              "DocumentMoniker": "C:\\Users\\Roma Invicta\\source\\repos\\BassBoulder\\JavaJavaScript\\Java\\Exercism\\SqueakyClean.java",
-              "RelativeDocumentMoniker": "Java\\Exercism\\SqueakyClean.java",
-              "ToolTip": "C:\\Users\\Roma Invicta\\source\\repos\\BassBoulder\\JavaJavaScript\\Java\\Exercism\\SqueakyClean.java",
-              "RelativeToolTip": "Java\\Exercism\\SqueakyClean.java",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Title": "CarsAssemble.java",
+              "DocumentMoniker": "C:\\Users\\Roma Invicta\\source\\repos\\BassBoulder\\JavaJavaScript\\Java\\Exercism\\CarsAssemble.java",
+              "RelativeDocumentMoniker": "Java\\Exercism\\CarsAssemble.java",
+              "ToolTip": "C:\\Users\\Roma Invicta\\source\\repos\\BassBoulder\\JavaJavaScript\\Java\\Exercism\\CarsAssemble.java",
+              "RelativeToolTip": "Java\\Exercism\\CarsAssemble.java",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001630|",
-              "WhenOpened": "2024-11-10T18:28:32.498Z",
+              "WhenOpened": "2024-11-11T14:43:44.541Z",
               "EditorCaption": ""
             }
           ]
