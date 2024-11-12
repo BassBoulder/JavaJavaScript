@@ -1,6 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Java",
+    "\\JavaScript",
+    "\\JavaScript\\Exercism",
+    "\\Java\\Exercism"
   ],
+  "SelectedNode": "\\JavaScript\\Exercism\\FreelancerRates.js",
   "PreviewInSolutionExplorer": false
 }
