@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Roma Invicta\\source\\repos\\BassBoulder\\JavaJavaScript\\",
+  "WorkspaceRootPath": "C:\\Users\\NickElgar\\source\\repos\\BassBoulder\\JavaJavaScript\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Roma Invicta\\source\\repos\\BassBoulder\\JavaJavaScript\\JavaScript\\Exercism\\ElysesEnchantments.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:JavaScript\\Exercism\\ElysesEnchantments.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NickElgar\\source\\repos\\BassBoulder\\JavaJavaScript\\JavaScript\\Exercism\\BirdWatcher.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:JavaScript\\Exercism\\BirdWatcher.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,14 +43,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ElysesEnchantments.js",
-              "DocumentMoniker": "C:\\Users\\Roma Invicta\\source\\repos\\BassBoulder\\JavaJavaScript\\JavaScript\\Exercism\\ElysesEnchantments.js",
-              "RelativeDocumentMoniker": "JavaScript\\Exercism\\ElysesEnchantments.js",
-              "ToolTip": "C:\\Users\\Roma Invicta\\source\\repos\\BassBoulder\\JavaJavaScript\\JavaScript\\Exercism\\ElysesEnchantments.js",
-              "RelativeToolTip": "JavaScript\\Exercism\\ElysesEnchantments.js",
-              "ViewState": "AgIAADYAAAAAAAAAAAAwwGYAAAAAAAAAAAAAAA==",
+              "Title": "BirdWatcher.js",
+              "DocumentMoniker": "C:\\Users\\NickElgar\\source\\repos\\BassBoulder\\JavaJavaScript\\JavaScript\\Exercism\\BirdWatcher.js",
+              "RelativeDocumentMoniker": "JavaScript\\Exercism\\BirdWatcher.js",
+              "ToolTip": "C:\\Users\\NickElgar\\source\\repos\\BassBoulder\\JavaJavaScript\\JavaScript\\Exercism\\BirdWatcher.js",
+              "RelativeToolTip": "JavaScript\\Exercism\\BirdWatcher.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-11-11T15:18:11.458Z",
+              "WhenOpened": "2024-11-12T22:08:09.489Z",
               "EditorCaption": ""
             }
           ]
@@ -61,11 +61,11 @@
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             },
             {
               "$type": "Bookmark",
