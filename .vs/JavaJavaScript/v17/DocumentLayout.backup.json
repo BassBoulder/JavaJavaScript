@@ -3,8 +3,13 @@
   "WorkspaceRootPath": "C:\\Users\\NickElgar\\source\\repos\\BassBoulder\\JavaJavaScript\\",
   "Documents": [
     {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NickElgar\\source\\repos\\BassBoulder\\JavaJavaScript\\JavaScript\\Exercism\\BirdWatcher.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:JavaScript\\Exercism\\BirdWatcher.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+=======
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NickElgar\\source\\repos\\BassBoulder\\JavaJavaScript\\Java\\Exercism\\KarlsLanguages.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Java\\Exercism\\KarlsLanguages.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+>>>>>>> 1e782b18ec2b72d0f81d1d8fb86122ebcd8a6c6f
     }
   ],
   "DocumentGroupContainers": [
@@ -43,6 +48,7 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+<<<<<<< HEAD
               "Title": "BirdWatcher.js",
               "DocumentMoniker": "C:\\Users\\NickElgar\\source\\repos\\BassBoulder\\JavaJavaScript\\JavaScript\\Exercism\\BirdWatcher.js",
               "RelativeDocumentMoniker": "JavaScript\\Exercism\\BirdWatcher.js",
@@ -51,6 +57,16 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2024-11-12T22:08:09.489Z",
+=======
+              "Title": "KarlsLanguages.java",
+              "DocumentMoniker": "C:\\Users\\NickElgar\\source\\repos\\BassBoulder\\JavaJavaScript\\Java\\Exercism\\KarlsLanguages.java",
+              "RelativeDocumentMoniker": "Java\\Exercism\\KarlsLanguages.java",
+              "ToolTip": "C:\\Users\\NickElgar\\source\\repos\\BassBoulder\\JavaJavaScript\\Java\\Exercism\\KarlsLanguages.java",
+              "RelativeToolTip": "Java\\Exercism\\KarlsLanguages.java",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001630|",
+              "WhenOpened": "2024-11-13T13:55:44.98Z",
+>>>>>>> 1e782b18ec2b72d0f81d1d8fb86122ebcd8a6c6f
               "EditorCaption": ""
             }
           ]
