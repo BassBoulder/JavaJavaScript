@@ -4,8 +4,13 @@
     "\\Java",
     "\\JavaScript",
     "\\JavaScript\\Exercism",
+    "\\JavaScript\\Testing",
     "\\Java\\Exercism"
   ],
+<<<<<<< HEAD
   "SelectedNode": "\\Java\\Exercism\\SalaryCalculator.java",
+=======
+  "SelectedNode": "\\Java\\Exercism\\FootballMatchReports.java",
+>>>>>>> d249b281d458b76d11e0bc3c120ab098f666bb18
   "PreviewInSolutionExplorer": false
 }
