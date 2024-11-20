@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\NickElgar\\source\\repos\\BassBoulder\\JavaJavaScript\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NickElgar\\source\\repos\\BassBoulder\\JavaJavaScript\\Java\\Exercism\\NeedForSpeed.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Java\\Exercism\\NeedForSpeed.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NickElgar\\source\\repos\\BassBoulder\\JavaJavaScript\\JavaScript\\Testing\\TestingMixedJuices.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:JavaScript\\Testing\\TestingMixedJuices.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,14 +43,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "NeedForSpeed.java",
-              "DocumentMoniker": "C:\\Users\\NickElgar\\source\\repos\\BassBoulder\\JavaJavaScript\\Java\\Exercism\\NeedForSpeed.java",
-              "RelativeDocumentMoniker": "Java\\Exercism\\NeedForSpeed.java",
-              "ToolTip": "C:\\Users\\NickElgar\\source\\repos\\BassBoulder\\JavaJavaScript\\Java\\Exercism\\NeedForSpeed.java",
-              "RelativeToolTip": "Java\\Exercism\\NeedForSpeed.java",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001630|",
-              "WhenOpened": "2024-11-14T22:23:58.464Z",
+              "Title": "TestingMixedJuices.js",
+              "DocumentMoniker": "C:\\Users\\NickElgar\\source\\repos\\BassBoulder\\JavaJavaScript\\JavaScript\\Testing\\TestingMixedJuices.js",
+              "RelativeDocumentMoniker": "JavaScript\\Testing\\TestingMixedJuices.js",
+              "ToolTip": "C:\\Users\\NickElgar\\source\\repos\\BassBoulder\\JavaJavaScript\\JavaScript\\Testing\\TestingMixedJuices.js",
+              "RelativeToolTip": "JavaScript\\Testing\\TestingMixedJuices.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-19T10:24:59.777Z",
               "EditorCaption": ""
             }
           ]
